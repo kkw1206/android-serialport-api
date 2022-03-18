@@ -15,7 +15,7 @@
  */
 
 package android_serialport_api;
-
+// git testver
 import java.io.File;
 import java.io.FileDescriptor;
 import java.io.FileInputStream;
